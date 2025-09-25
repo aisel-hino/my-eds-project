@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1lv-8hQ4TLldIgsWEGkeBg9n8pcRslhKt
+  /:
+    url: "https://author-p166410-e1772997.adobeaemcloud.com/bin/franklin.delivery/aisel-hino/my-eds-project/main"
+    type: "markup"
+    suffix: ".html"
